@@ -1,0 +1,2 @@
+# -AltSource
+AltStore
